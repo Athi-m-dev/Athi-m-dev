@@ -3,7 +3,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hi, I'm Athi!
 
-- 🔭 I’m currently working on **Dele** – a modern React-based web app.
+- 🔭 I’m currently working on  a modern React-based web app.
 - 🌱 I’m currently learning **Node.js**, **MongoDB**, and full-stack web development.
 - 👯 I’m looking to collaborate on **frontend projects** using React and Tailwind CSS.
 - 🤔 I’m looking for help with **API integration and backend development (Node.js)**.
