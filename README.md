@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 [![Athi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Athi-m-dev)](https://github.com/Athi-m-dev/github-readme-stats)
 
-[![Athi's github activity graph]((https://github-readme-activity-graph.vercel.app/graph?username=Athi-m-dev&bg_color=050505&color=ffffff&line=05eb3e&point=d9f028&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+[![Athi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Athi-m-dev&bg_color=050505&color=ffffff&line=0af545&point=daf609&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 (![LeetCode Stats](https://leetcard.jacoblin.cool/Athithiyan_M?theme=dark&font=Noto%20Sans%20Old%20Italic&ext=heatmap))
