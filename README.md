@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
-[![Athi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Athi-m-dev)](https://github.com/Athi-m-dev/github-readme-stats)
-
 [![Athi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Athi-m-dev&bg_color=050505&color=ffffff&line=0af545&point=daf609&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Athi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Athi-m-dev)](https://github.com/Athi-m-dev/github-readme-stats)
 
 (![LeetCode Stats](https://leetcard.jacoblin.cool/Athithiyan_M?theme=dark&font=Noto%20Sans%20Old%20Italic&ext=heatmap))
