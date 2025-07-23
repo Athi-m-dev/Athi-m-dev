@@ -4,8 +4,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on  a modern React-based web app.
 - 🌱 I’m currently learning **Node.js**, **MongoDB**, and full-stack web development.
 - 👯 I’m looking to collaborate on **frontend projects** using React and Tailwind CSS.
-- 🤔 I’m looking for help with **API integration and backend development (Node.js)**.
-- - 🌱 I’m currently learning Data Structures
+- 🌱 I’m currently learning Data Structures
 - 💬 Ask me about **React, JavaScript, Tailwind CSS, or responsive web design**.
 - 📫 How to reach me: **[athithiyanm87@gmail.com]** 
 - 📫 Check out my work here: [syphr.site](https://www.syphr.site/)
