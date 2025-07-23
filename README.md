@@ -2,7 +2,7 @@ Here are some ideas to get you started:
 ## Hi there 👋 It's me Athi
 
 - 🔭 I’m currently working on  a modern React-based web app.
-- 🌱 I’m currently learning **Node.js**, **MongoDB**, and full-stack web development.
+- 🌱 I’m Interestes to Learn **Node.js**, **Express.js**, **MongoDB**.
 - 👯 I’m looking to collaborate on **frontend projects** using React and Tailwind CSS.
 - 🌱 I’m currently learning Data Structures
 - 💬 Ask me about **React, JavaScript, Tailwind CSS, or responsive web design**.
