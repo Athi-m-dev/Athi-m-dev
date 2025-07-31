@@ -1,4 +1,3 @@
-Here are some ideas to get you started:
 ## Hi there 👋 It's me Athi
 
 - 🔭 I’m currently working on  a modern React-based web app.
