@@ -10,6 +10,11 @@
 
 ### I code in
 <div align="center">
+    <!-- HTML -->
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+
+  <!-- CSS -->
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
 
   <!-- JavaScript -->
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -27,8 +32,8 @@
   <img width="50" height="50" alt="Bootstrap" src="https://github.com/user-attachments/assets/91f41939-3102-485b-b421-a458868fce65" />
 
   <!-- DaisyUI -->
-  <img width="50" height="50" alt="DaisyUI" src="https://seeklogo.com/images/D/daisyui-logo-BF1D2A4B0F-seeklogo.com.png" />
-
+  <img width="50" height="50" alt="DaisyUI" src=" https://img.daisyui.com/images/daisyui/wallpaper-black.png" />
+ 
   <!-- Firebase -->
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 
@@ -36,7 +41,7 @@
   <img width="50" height="50" alt="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 
   <!-- Express.js -->
-  <img width="50" height="50" alt="Express.js" src="https://img.icons8.com/ios/50/000000/express-js.png" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/dce7711e-2d78-429e-b2c5-7cfc0e94617f" />
 
   <!-- Mongoose -->
   <img width="50" height="50" alt="Mongoose" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" />
@@ -50,17 +55,20 @@
   <!-- Java -->
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 
-  <!-- HTML -->
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
-
-  <!-- CSS -->
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-
 </div>
 
+### Build Tools & Bundlers
+ <div align="center">
+  <!-- Parcel -->
+  <img width="50" height="50" alt="Parcel" src="https://cdn.worldvectorlogo.com/logos/parcel-2.svg" />
 
+  <!-- Vite -->
+  <img width="50" height="50" alt="Vite" src="https://vitejs.dev/logo.svg" />
 
+  <!-- Webpack -->
+  <img width="50" height="50" alt="Webpack" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />
 
+</div>
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4311712d-d77f-40b8-b386-55dc1c9c92d8" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/980c1ace-f94b-489f-ab07-984f1a040a84" />
