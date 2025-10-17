@@ -1,12 +1,10 @@
 ## Hi there 👋 It's me Athi
 
-- 🔭 I’m currently working on  a modern React-based web app.
-- 🌱 I’m Interestes to Learn **Node.js**, **Express.js**, **MongoDB**.
-- 👯 I’m looking to collaborate on **frontend projects** using React and Tailwind CSS.
-- 🌱 I’m currently learning Data Structures
-- 💬 Ask me about **React, JavaScript, Tailwind CSS, or responsive web design**.
-- 📫 How to reach me: **[athithiyanm87@gmail.com]** 
-- 📫 Check out my work here: [syphr.site](https://www.syphr.site/)
+I’m a passionate web developer who enjoys crafting modern and responsive web applications.  
+Currently, I’m building projects with **React** , **Node.js**, **Express.js**, and **MongoDB** to create full-stack experiences.  
+I love collaborating on both **frontend** and **backend** projects, continuously improving my skills in **JavaScript**, **Tailwind CSS**, and **solving real world problems**.  
+Feel free to reach out at **[athithiyanm87@gmail.com](mailto:athithiyanm87@gmail.com)** or explore my work at [syphr.site](https://www.syphr.site/).
+
 
 ### I code in
 <div align="center">
@@ -53,7 +51,14 @@
 </div>
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4311712d-d77f-40b8-b386-55dc1c9c92d8" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/980c1ace-f94b-489f-ab07-984f1a040a84" />
+<div align = "center">
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
+  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
+  <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>  
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4311712d-d77f-40b8-b386-55dc1c9c92d8" /> 
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/980c1ace-f94b-489f-ab07-984f1a040a84" />
+</div>
 
 
 [![Athi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Athi-m-dev&bg_color=050505&color=ffffff&line=0af545&point=daf609&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
