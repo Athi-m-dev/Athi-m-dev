@@ -32,7 +32,7 @@
   <img width="50" height="50" alt="Bootstrap" src="https://github.com/user-attachments/assets/91f41939-3102-485b-b421-a458868fce65" />
 
   <!-- DaisyUI -->
-  <img width="50" height="50" alt="DaisyUI" src=" https://img.daisyui.com/images/daisyui/wallpaper-black.png" />
+  <img width="50" height="50" alt="DaisyUI" src="https://seeklogo.com/images/D/daisyui-logo-BF1D2A4B0F-seeklogo.com.png" />
  
   <!-- Firebase -->
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
