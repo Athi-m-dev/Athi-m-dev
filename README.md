@@ -9,7 +9,58 @@
 - 📫 Check out my work here: [syphr.site](https://www.syphr.site/)
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bd69be61-0cf0-487a-9266-458e02e2bbc3" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/91f41939-3102-485b-b421-a458868fce65" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9fbd2c4e-8fbf-4ef2-8759-d740c0c4cdcd" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<div align="center">
+
+  <!-- JavaScript -->
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+
+  <!-- React -->
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+
+  <!-- Redux -->
+  <img width="50" height="50" alt="Redux" src="https://github.com/user-attachments/assets/9fbd2c4e-8fbf-4ef2-8759-d740c0c4cdcd" />
+
+  <!-- Tailwind CSS -->
+  <img width="50" height="50" alt="Tailwind CSS" src="https://github.com/user-attachments/assets/bd69be61-0cf0-487a-9266-458e02e2bbc3" />
+
+  <!-- Bootstrap -->
+  <img width="50" height="50" alt="Bootstrap" src="https://github.com/user-attachments/assets/91f41939-3102-485b-b421-a458868fce65" />
+
+  <!-- DaisyUI -->
+  <img width="50" height="50" alt="DaisyUI" src="https://seeklogo.com/images/D/daisyui-logo-BF1D2A4B0F-seeklogo.com.png" />
+
+  <!-- Firebase -->
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+
+  <!-- Node.js -->
+  <img width="50" height="50" alt="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+
+  <!-- Express.js -->
+  <img width="50" height="50" alt="Express.js" src="https://img.icons8.com/ios/50/000000/express-js.png" />
+
+  <!-- Mongoose -->
+  <img width="50" height="50" alt="Mongoose" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" />
+
+  <!-- MongoDB -->
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+
+  <!-- C++ -->
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+
+  <!-- Java -->
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+
+  <!-- HTML -->
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+
+  <!-- CSS -->
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+
+</div>
+
+
+
+
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4311712d-d77f-40b8-b386-55dc1c9c92d8" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/980c1ace-f94b-489f-ab07-984f1a040a84" />
