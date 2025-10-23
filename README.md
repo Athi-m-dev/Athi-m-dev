@@ -6,7 +6,7 @@ I love collaborating on both **frontend** and **backend** projects, continuously
 Feel free to reach out at **[athithiyanm87@gmail.com](mailto:athithiyanm87@gmail.com)** or explore my work at [syphr.site](https://www.syphr.site/).
 
 
-### I code in
+### Tech Stack
 <div align="center">
   <!-- HTML -->
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
