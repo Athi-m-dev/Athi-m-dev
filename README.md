@@ -60,8 +60,10 @@ Feel free to reach out at **[athithiyanm87@gmail.com](mailto:athithiyanm87@gmail
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/980c1ace-f94b-489f-ab07-984f1a040a84" />
 </div>
 <div align = "center"> 
-  
+  <br>
   ![LeetCode Stats](https://leetcard.jacoblin.cool/Athithiyan_M?theme=dark&font=Noto%20Sans%20Old%20Italic&ext=heatmap)
+  <br> 
    [![Athi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Athi-m-dev)](https://github.com/Athi-m-dev/github-readme-stats)
+   <br>
 
 
