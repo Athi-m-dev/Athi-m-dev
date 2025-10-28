@@ -54,7 +54,7 @@ Feel free to reach out at **[athithiyanm87@gmail.com](mailto:athithiyanm87@gmail
 <div align = "center">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
-  [Postman](https://iconscout.com/icons/postman) by [Icon 54](https://iconscout.com/contributors/icon-54) on [IconScout](https://iconscout.com)
+  <img width="64" height="64" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/>
   <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>  
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4311712d-d77f-40b8-b386-55dc1c9c92d8" /> 
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
